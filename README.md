@@ -6,12 +6,8 @@
 
 <h3 align="center">Software Engineering Student & DevOps Enthusiast 👨‍💻</h3>
 
-<p align="center">
-  I'm a Software Engineering student at Polytech Montpellier, specializing in Software Development and IT Operations. My academic journey focuses on engineering practices, DevOps methodologies, and advanced software architecture.
-</p>
-
-<p align="center">
-  Currently working as an apprentice Software Engineer at Agysoft, I'm part of an innovation-driven team where I contribute to exciting projects involving AI integration, SSO implementation, and security enhancements. I work primarily with Java, Spring, and modern JavaScript frameworks like React and Next.js, always striving to create efficient, secure, and scalable solutions while following industry best practices.
+<p align="center"> 
+Software Engineering student at Polytech Montpellier, passionate about building reliable systems and automation workflows. Currently working as a DevOps & Software Engineering apprentice at Agysoft, where I develop production systems, CI/CD pipelines, and scalable backend services using Java/Spring and modern JavaScript frameworks.
 </p>
 
 <h2 align="center">🤝 Connect with Me</h2>
@@ -26,6 +22,7 @@
 
 <h2 align="center">💼 Technical Skills</h2>
 
+<!-- Languages & Frameworks -->
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
@@ -34,6 +31,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 </p>
 
+<!-- DevOps & Tools -->
 <p align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
@@ -41,9 +39,10 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
+<!-- Operating Systems -->
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Debian-E95420?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
@@ -54,5 +53,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-axelfrache&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=axelfrache&color=blue" alt="Profile Views"/>
 </p>
