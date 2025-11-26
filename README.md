@@ -7,7 +7,11 @@
 <h3 align="center">Software Engineering Student & DevOps Enthusiast 👨‍💻</h3>
 
 <p align="center"> 
-Software Engineering student at Polytech Montpellier, passionate about building reliable systems and automation workflows. Currently working as a DevOps & Software Engineering apprentice at Agysoft, where I develop production systems, CI/CD pipelines, and scalable backend services using Java/Spring and modern JavaScript frameworks.
+DevOps Engineering student at Polytech Montpellier, passionate about automation, system reliability, and scalable infrastructure.
+</p>
+
+<p align="center">
+Currently working as a DevOps & Software Engineering apprentice at Agysoft, where I develop production systems, CI/CD pipelines, and scalable backend services using Java/Spring and modern JavaScript frameworks.
 </p>
 
 <h2 align="center">🤝 Connect with Me</h2>
