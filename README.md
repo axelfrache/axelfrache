@@ -8,7 +8,7 @@
 
 - 🎓 DevOps Engineering student at **Polytech Montpellier**
 - 💼 DevOps & Software Engineering apprentice at **Agysoft**
-- 🔭 Building production systems, CI/CD pipelines, and scalable backend services with Java/Spring
+- ⚙️ Building production systems, CI/CD pipelines, and scalable backend services with Java/Spring
 - 🌱 Currently learning more about **Kubernetes**, **IaC**, and **cloud-native** practices
 - 💬 Ask me about **Docker, Kubernetes, Java/Spring, and CI/CD**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/axel-frache)
