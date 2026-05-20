@@ -35,13 +35,17 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-<h3>🔭 Currently working on</h3>
+---
+
+### 🔭 Currently working on
 
 - Building **Questify**, a gamified productivity app instrumented with **OpenTelemetry** for metrics, logs and traces
 - Improving my **Talos-based Kubernetes homelab** with FluxCD, GitOps and observability experiments
 - Evolving **Meowsik**, a Spotify-like student project from monolith to microservices
 
-<h3>📊 GitHub Stats</h3>
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" />
